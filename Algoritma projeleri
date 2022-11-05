@@ -1,0 +1,41 @@
+Insertion Sort projesi
+
+1-[22,27,16,2,18,6] >>> [2,27,16,22,18,6] >>> [2,6,16,22,18,27] >>> [2,6,16,18,22,27]
+
+2- Big(O) o(N^2)
+
+3-4- Avarage case.
+
+Merge Sort Projesi
+
+[[16,21,11,8,12,22]
+	
+		[16,21,11]						[8,12,22]
+	[16,21]   [11]						[8,12]		[22]
+
+			[16]	[21]	[11]	[8]	[12] 	[22]
+
+			[16,21]		[8,11]			[12,22]
+
+					[8,11,12,16,22]
+
+
+
+
+Binary Search Tree Projesi
+ 
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
+
+7 SOLUNDA 6 			7 SAĞINDA 8
+6 SOLUNDA 5			8 SAĞINDA 9
+5 SOLUNDA 4			
+4 SOLUNDA 3
+3 SOLUNDA 2
+2 SOLUNDA 1
+1 SOLUNDA 0
+
+
+
+					
+
+
